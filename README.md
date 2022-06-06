@@ -1,6 +1,9 @@
 # Feature selection algorithm
 This repository is to house all the algorithms related to feature selection. Feature selection have many benefits suchs as improve training/inference speed, reduce chance of overfitting and reduce chance of upstream data outages
 
+## Summary
+Using of random forest and gradient boosting tree feature_importance is a good baseline and features can be further selected using more advance algorithm like (FCQ F-statistics/pearson-correlation)
+
 ## Algorithms
 1. minimum redundancy Maximum relevances (mRMR)
 
